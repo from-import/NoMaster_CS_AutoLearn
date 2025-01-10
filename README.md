@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c5ce1f4-8f07-4667-9de7-ebced042c248)# NoMaster_CS_AutoLearn
+# NoMaster_CS_AutoLearn
 为不考虑读研的 CS/非科班学生撰写的本科就业指南：可供后端，前端，算法，测开四个方向做参考  
 本教程专注于直接就业的路径规划，不适用于有读研计划的受众  
 作者情况：自动化专业 自学转码 目前从事后端开发工作
