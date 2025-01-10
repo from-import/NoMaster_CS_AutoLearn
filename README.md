@@ -1,4 +1,4 @@
-# NoMaster_CS_AutoLearn
+![image](https://github.com/user-attachments/assets/42371300-3b83-45ef-877f-40de9fd463e3)# NoMaster_CS_AutoLearn
 为不考虑读研的 CS/非科班学生撰写的本科就业指南：可供后端，前端，算法，测开四个方向做参考  
 本教程专注于直接就业的路径规划，不适用于有读研计划的受众  
 参考数据：2024 + 2025年互联网招聘市场情况
@@ -65,4 +65,9 @@
   - 开源项目贡献。
   - 高质量实习经验。
   - 技术比赛或 Hackathon。
+ 
+-**LeetCode 刷题参考**
+![image](https://github.com/user-attachments/assets/23c2c885-6cfb-4d44-a0db-1181dd4959a7)
+![image](https://github.com/user-attachments/assets/516bf9af-fac0-4cbf-88d6-1551e893c5bb)
+![image](https://github.com/user-attachments/assets/f0dc5223-8d10-4c8c-bdd8-8f8ae98281fb)
 
